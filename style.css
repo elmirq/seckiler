@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(0, 174, 255);
+}
+.Recep{
+    float: left;
+    background-image: url(recep.jpg);
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    border:0px;
+    background-size: cover;
+    margin: 12px ;
+    position: relative;
+    box-shadow: 0px 5px 8px black;
+}   
+.keMAL{
+    float:right ;
+    background-image: url(kemal.jpg);
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    border: 0px;
+    background-size: cover;
+    margin: 12px ;
+    position: relative;
+    box-shadow: 0px 5px 8px black;
+    
+
+}
+.sinan{
+    float: left;
+    background-image: url(Dr._Sinan_Oğan.jpg);
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    border: 0px;
+    background-size: cover;
+    margin: 12px;
+    position: relative;
+    box-shadow: 0px 5px 8px black;
+}         
+   
+
+h1, p{
+    color: rgb(0, 0, 0);
+}
