@@ -54,10 +54,11 @@ padding-top: 30px;
 box-sizing: border-box;
 color: rgb(255, 255, 255);
 border-radius: 100px;
-outline: double rgb(255, 255, 255) 8px;
+
 background-image: url(nisanboard-2vtfi8.gif);
 background-position: center;
 background-size: cover;
+box-shadow: 3px 3px 3px 3px rgb(196, 196, 196);
 
 }
 
