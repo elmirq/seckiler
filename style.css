@@ -11,7 +11,7 @@ body{
     background-size: cover;
     margin: 12px ;
     position: relative;
-    box-shadow: 0px 5px 8px black;
+    box-shadow: 0px 5px 8px rgb(255, 0, 0);
 }   
 .keMAL{
     float:right ;
@@ -23,7 +23,7 @@ body{
     background-size: cover;
     margin: 12px ;
     position: relative;
-    box-shadow: 0px 5px 8px black;
+    box-shadow: 0px 5px 8px rgb(255, 0, 0);
     
 
 }
@@ -37,7 +37,7 @@ body{
     background-size: cover;
     margin: 12px;
     position: relative;
-    box-shadow: 0px 5px 8px black;
+    box-shadow: 0px 5px 8px rgb(255, 0, 0);
 }         
    
 
@@ -111,7 +111,7 @@ backface-visibility: hidden;
 color: #f8f8f8;
 background:#000000; ;
 border-radius: 10px;
-box-shadow: 0 5px 9px #ffffff;
+box-shadow: 0 5px 9px #5a5a5a;
 background-image: url(atatürk-mustafa-kemal-atatürk.gif);
 background-position: center;
 background-size: cover;
