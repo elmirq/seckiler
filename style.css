@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(26, 26, 26);
+    background-color: rgb(49, 0, 0);
 }
 .Recep{
     float: left;
@@ -80,6 +80,7 @@ background-size: cover;
 
 .ana{
     position: absolute;
+    bottom: 100px;
     width: 250px;
     height: 320px;
     background: ;
@@ -88,7 +89,6 @@ background-color:;
 border-radius: 10px;
 border-radius: 4px;
 justify-content: center;
-margin-bottom: 100px;
 
 
 }
@@ -100,7 +100,7 @@ transform-style: preserve-3d;
 transition: all 0.5s ease;
 background-color:;
 border-radius: 10px;
-margin: 100px 0px 100px 800px ;
+margin: 300px 0px 300px 800px ;
 
 }
 .qabag{
@@ -130,8 +130,13 @@ background-image: url(mustafa-kemal-ataturk-imzasi-png-photo-8.png);
 background-position: center;
 background-size: contain;
 background-repeat: no-repeat;
+font-family: 'Great Vibes', cursive;
 }
 .card:hover{
 transform: rotateY(180deg);
+
+}
+#end{
+margin-top: 240px;
 
 }
